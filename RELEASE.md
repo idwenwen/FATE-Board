@@ -1,3 +1,8 @@
+# Release 1.3.2
+-Fix the display error of binning table
+#### Major Features and Improvements
+- Support the plugins
+
 # Release 1.3.1
 
 #### Major Features and Improvements
