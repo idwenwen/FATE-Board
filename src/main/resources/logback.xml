@@ -174,8 +174,7 @@
         <appender-ref ref="services"/>
     </logger>
 
-    <root level="DEBUG">
-        <appender-ref ref="STDOUT"/>
+    <root level="INFO">
         <appender-ref ref="ERROR"/>
         <appender-ref ref="INFO"/>
         <appender-ref ref="DEBUG"/>
