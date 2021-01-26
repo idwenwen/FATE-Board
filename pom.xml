@@ -210,6 +210,12 @@
         <version>1.9.15</version>
         </dependency>
 
+        <dependency>
+            <groupId>cn.webank.bsp</groupId>
+            <artifactId>encrypt</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+
     </dependencies>
 
 
